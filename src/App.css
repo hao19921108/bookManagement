@@ -1,5 +1,11 @@
 .App {
   font-family: sans-serif;
   padding: 20px;
-  text-align: center;
+  font-weight: 200;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  padding: 20px;
 }
